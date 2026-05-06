@@ -1,0 +1,51 @@
+# Geotechnical Engineering1 — Christchurch
+
+> Geotechnical engineering services in Christchurch, New Zealand.
+
+## Services
+- [Anchors](https://christchurch.geotechnical-engineering1.co/anchors/)
+- [Atterberg Limits](https://christchurch.geotechnical-engineering1.co/atterberg-limits/)
+- [Cbr Road](https://christchurch.geotechnical-engineering1.co/cbr-road/)
+- [Cpt Test](https://christchurch.geotechnical-engineering1.co/cpt-test/)
+- [Deep Excavations](https://christchurch.geotechnical-engineering1.co/deep-excavations/)
+- [Excavation Monitoring](https://christchurch.geotechnical-engineering1.co/excavation-monitoring/)
+- [Excavations](https://christchurch.geotechnical-engineering1.co/excavations/)
+- [Flexible Pavement](https://christchurch.geotechnical-engineering1.co/flexible-pavement/)
+- [Footings](https://christchurch.geotechnical-engineering1.co/footings/)
+- [Foundations](https://christchurch.geotechnical-engineering1.co/foundations/)
+- [Grain Size](https://christchurch.geotechnical-engineering1.co/grain-size/)
+- [Ground Improvement](https://christchurch.geotechnical-engineering1.co/ground-improvement/)
+- [Grouting](https://christchurch.geotechnical-engineering1.co/grouting/)
+- [In Situ Permeability](https://christchurch.geotechnical-engineering1.co/in-situ-permeability/)
+- [Investigation](https://christchurch.geotechnical-engineering1.co/investigation/)
+- [Lab In Situ](https://christchurch.geotechnical-engineering1.co/lab-in-situ/)
+- [Laboratory](https://christchurch.geotechnical-engineering1.co/laboratory/)
+- [Liquefaction](https://christchurch.geotechnical-engineering1.co/liquefaction/)
+- [Masw](https://christchurch.geotechnical-engineering1.co/masw/)
+- [Mat Foundations](https://christchurch.geotechnical-engineering1.co/mat-foundations/)
+- [Piles](https://christchurch.geotechnical-engineering1.co/piles/)
+- [Proctor Tests](https://christchurch.geotechnical-engineering1.co/proctor-tests/)
+- [Resistivity](https://christchurch.geotechnical-engineering1.co/resistivity/)
+- [Retaining Walls](https://christchurch.geotechnical-engineering1.co/retaining-walls/)
+- [Rigid Pavement](https://christchurch.geotechnical-engineering1.co/rigid-pavement/)
+- [Road Geotechnics](https://christchurch.geotechnical-engineering1.co/road-geotechnics/)
+- [Sand Cone Density](https://christchurch.geotechnical-engineering1.co/sand-cone-density/)
+- [Seismic](https://christchurch.geotechnical-engineering1.co/seismic/)
+- [Seismic Isolation](https://christchurch.geotechnical-engineering1.co/seismic-isolation/)
+- [Seismic Microzonation](https://christchurch.geotechnical-engineering1.co/seismic-microzonation/)
+- [Seismic Refraction](https://christchurch.geotechnical-engineering1.co/seismic-refraction/)
+- [Slope Stability](https://christchurch.geotechnical-engineering1.co/slope-stability/)
+- [Slopes](https://christchurch.geotechnical-engineering1.co/slopes/)
+- [Soft Ground Tunnels](https://christchurch.geotechnical-engineering1.co/soft-ground-tunnels/)
+- [Spt Drilling](https://christchurch.geotechnical-engineering1.co/spt-drilling/)
+- [Stone Columns](https://christchurch.geotechnical-engineering1.co/stone-columns/)
+- [Test Pits](https://christchurch.geotechnical-engineering1.co/test-pits/)
+- [Triaxial](https://christchurch.geotechnical-engineering1.co/triaxial/)
+- [Vibrocompaction](https://christchurch.geotechnical-engineering1.co/vibrocompaction/)
+
+## Contact
+- Website: https://christchurch.geotechnical-engineering1.co/
+
+## About
+This site provides geotechnical engineering services in Christchurch, New Zealand.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
